@@ -77,7 +77,7 @@ python autosort_engine.py
 The program will prompt you step-by-step:
 
 ```
-> Path: C:\Users\Anant\Downloads
+> Path: C:\Users\Name\Downloads
 ```
 
 ### Option B — Direct Argument
