@@ -77,13 +77,13 @@ python autosort_engine.py
 The program will prompt you step-by-step:
 
 ```
-> Path: C:\Users\Anant\Downloads
+> Path: C:\Users\Name\Downloads
 ```
 
 ### Option B — Direct Argument
 
 ```bash
-python autosort_engine.py "C:\Users\Anant\Downloads"
+python autosort_engine.py "C:\Users\Name\Downloads"
 ```
 
 Pass the folder path directly and skip the prompt.
@@ -138,7 +138,7 @@ Pass the folder path directly and skip the prompt.
 
 ### Step 1 — You Give It a Path
 
-You type a folder path like `C:\Users\Anant\Downloads`. That's just a string of text. Python works only within the boundary you give it — nothing else on your system is touched.
+You type a folder path like `C:\Users\Name\Downloads`. That's just a string of text. Python works only within the boundary you give it — nothing else on your system is touched.
 
 ---
 
